@@ -1,4 +1,5 @@
 # A-case-study-analysis-for-Bellabeat-a-wellness-technology-company
+This repository contains a detailed case study analysis for Bellabeat, a wellness technology company. The report includes insights derived from analyzing smart device usage trends and recommendations for enhancing Bellabeat's marketing strategy. It follows a structured data analysis process, including data preparation, cleaning, analysis, and actionable suggestions to support business growth.
 **Bellabeat Case Study: Leveraging Data for Strategic Growth**
 
 ### **Introduction**
